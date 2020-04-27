@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@aws-cdk/core": "1.35.0",
-    "@komazarari/cdk-example-lambda-with-layer": "^0.1.0",
+    "@komazarari/cdk-example-lambda-with-layer": "^0.1.35",
     "source-map-support": "^0.5.19"
   }
 }
